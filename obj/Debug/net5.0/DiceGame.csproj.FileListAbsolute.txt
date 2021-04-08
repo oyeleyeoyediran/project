@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\CSharp\DiceGame\obj\Debug\net5.0\DiceGame.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\CSharp\DiceGame\obj\Debug\net5.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CSharp\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CSharp\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CSharp\DiceGame\obj\Debug\net5.0\DiceGame.csproj.CoreCompileInputs.cache
